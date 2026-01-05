@@ -28,3 +28,5 @@ ClusterIP는 클러스터 내부에서만 접근 가능했습니다. 외부에�
 ### - LoadBalancer Service
 #### LoadBalancer란?
 클라우드 환경(AWS, GCP, Azure)에서 외부 로드 밸런서를 자동으로 생성하는 Service 타입입니다.
+## 0012 완료
+### - ConfigMap 사용하기
