@@ -18,6 +18,13 @@
 ## 0009 완료
 ### - Cluster IP Service
 #### Pod 고정 아이피 설정
+#### Service가 필요한 이유? 
+Pod는 일시적입니다. 삭제되고 다시 만들어지면 IP 주소가 바뀝니다.
 ## 0010 완료
 ### - NodePort Service
-#### 포트 설정
+#### NodePort란?
+ClusterIP는 클러스터 내부에서만 접근 가능했습니다. 외부에서 접근하려면 NodePort를 사용합니다.
+## 0011 완료
+### - LoadBalancer Service
+#### LoadBalancer란?
+클라우드 환경(AWS, GCP, Azure)에서 외부 로드 밸런서를 자동으로 생성하는 Service 타입입니다.
