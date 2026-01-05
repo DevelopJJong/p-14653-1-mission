@@ -40,3 +40,6 @@ ClusterIP는 클러스터 내부에서만 접근 가능했습니다. 외부에�
 # 6부: 스토리지
 ## 0014 완료
 ### - PersistentVolume과 PersistentVolumeClaim
+# 7부: 실전 애플리케이션 배포
+## 0015 완료
+### - 애플리케이션 배포
