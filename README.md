@@ -15,3 +15,6 @@
 ### - 스케일링 (Scaling)
 ## 0008 완료
 ### - 롤링 업데이트 (Rolling Update)
+## 0009 완료
+### - Cluster IP Service
+#### Pod 고정 아이피 설정
