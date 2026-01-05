@@ -18,3 +18,6 @@
 ## 0009 완료
 ### - Cluster IP Service
 #### Pod 고정 아이피 설정
+## 0010 완료
+### - NodePort Service
+#### 포트 설정
